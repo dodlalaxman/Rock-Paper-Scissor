@@ -21,9 +21,11 @@ When prompted, enter your move:
 's' for Scissors
 
 **2**
+
 The computer will randomly select its move
 
 **3**
+
 The game will display both moves and declare the winner based on standard Rock Paper Scissors rules:
 
 Rock beats Scissors
